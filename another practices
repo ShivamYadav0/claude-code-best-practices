@@ -1,0 +1,12 @@
+Persistent Context: Use CLAUDE.md files to store project-specific rules so you don't have to repeat yourself in every session.
+2️⃣ The "Plan First" Rule: Don't let the agent dive into code immediately. Force a solution plan and use the built-in "to-do list" feature to track progress.
+3️⃣ Session Hygiene: Keep context windows lean. Use /compact or /clear to ensure the model stays sharp on the current task.
+4️⃣ CLI Superpowers: Integrate MCP servers and custom CLI tools. The more tools you give it, the more "agentic" it becomes.
+5️⃣ Multi-Instance Orchestration: For complex builds, the pros are now running multiple Claude instances simultaneously or using headless mode for CI/CD.
+6️⃣ Visual Debugging: Stuck on a UI bug? Feed it a screenshot. Claude Code’s multimodal capability bridges the gap between code and pixels.
+7️⃣ Test-Driven AI: Make linting, TDD, and regular commits part of the automated workflow for cleaner repos.
+8️⃣ The Kill Switch: Master the 'Escape' key. Real-time intervention is the secret to guiding an agent when it veers off-course.
+
+
+https://code.claude.com/docs/en/best-practices
+https://levelup.gitconnected.com/claude-code-best-practices-12-patterns-agentic-engineers-use-65264e3eb919
